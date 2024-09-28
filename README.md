@@ -15,4 +15,5 @@ https://towardsdatascience.com/
 https://www.deeplearning.ai/     --imp--
 https://ocw.mit.edu/search/   --imp--
 https://learn.365datascience.com/my-learning-path/
-
+-- youtube lectures
+1. arabic ML https://www.youtube.com/playlist?list=PLRdABJkXXytD294MGBHEKrGnUwyM-3xOF

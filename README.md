@@ -1,24 +1,22 @@
 # Data_Sciences
 M& DL& Computer vision
 1.  notebook: https://mpolinowski.github.io/
-2. **MLTut is an educational platform dedicated to making machine learning and data science accessible through detailed blogs, resources, and practical tools, catering to learners of all levels with topics ranging from automation to advanced courses.** https://www.mltut.com/
+2. *MLTut is an educational platform dedicated to making machine learning and data science accessible through detailed blogs, resources, and practical tools, catering to learners of all levels with topics ranging from automation to advanced courses.* https://www.mltut.com/
 
  --------
- ---important links---
-C:\Users\El-Wattaneya\Desktop\al_tools.txt
+ *Online Compiler, Visual Debugger, and AI Tutor for Python, Java, C, C++, and JavaScript* https://pythontutor.com/
+
 --- reading---
-https://www.guru99.com/
-https://ourcodingclub.github.io/
-https://www.projectpro.io/tutorial
-https://www.mltut.com/
-https://towardsdatascience.com/
+1.https://www.guru99.com/
+2.https://ourcodingclub.github.io/
+3. https://www.projectpro.io/tutorial
+4. https://www.mltut.com/
+5. https://towardsdatascience.com/
 
--------
 ----courses--
-https://www.deeplearning.ai/     --imp--
-https://ocw.mit.edu/search/   --imp--
-https://learn.365datascience.com/my-learning-path/
-
+1. https://www.deeplearning.ai/     --imp--
+2. https://ocw.mit.edu/search/   --imp--
+3. https://learn.365datascience.com/my-learning-path/
 ------
 Drive https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD
 
